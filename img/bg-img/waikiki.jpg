@@ -1,0 +1,245 @@
+
+--------------------- Network information ----------------------
+Network summary:
+ * Network appears to function ok.
+
+Operating system:    Windows Xp or Later
+Installed protocols: MSAFD Tcpip [TCP/IP] (1001)
+                     MSAFD Tcpip [UDP/IP] (1002)
+                     MSAFD Tcpip [RAW/IP] (1003)
+                     MSAFD Tcpip [TCP/IPv6] (1004)
+                     MSAFD Tcpip [UDP/IPv6] (1005)
+                     MSAFD Tcpip [RAW/IPv6] (1006)
+                     AF_UNIX (1007)
+                     RSVP TCPv6 Service Provider (1008)
+                     RSVP TCP Service Provider (1009)
+                     RSVP UDPv6 Service Provider (1010)
+                     RSVP UDP Service Provider (1011)
+                     Hyper-V RAW (1012)
+                     MSAFD L2CAP [Bluetooth] (1013)
+                     MSAFD RfComm [Bluetooth] (1014)
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+	Gateway:        0.0.0.0
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+	Gateway:        0.0.0.0
+	DHCP Enabled:   Yes
+	DHCP Server:    
+	Lease Obtained:  0
+	Have Wins:      No
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+	Gateway:        0.0.0.0
+	DHCP Enabled:   Yes
+	DHCP Server:    
+	Lease Obtained:  0
+
+Adapter name:   Wi-Fi
+	Adapter index:  10
+	Adapter id:     {7E1BB8D9-DA25-4400-8DB1-21FAD83FA454}
+	Adapter Desc:   Intel(R) Wireless-AC 9560 160MHz
+	Adapter medium: Native802_11
+	Adapter Flags:  485
+	Adapter MTU:    1500
+	Adapter type:   Unknown
+	Adapter IfType: IF_TYPE_IEEE80211
+	Adapter Status: IfOperStatusUp
+	Adapter Addr:   d4-3b-4-1a-c2-f 
+	Adapter DNS:    192.168.1.1 	
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+	Gateway:        0.0.0.0
+	DHCP Enabled:   Yes
+	DHCP Server:    
+	Lease Obtained:  0
+
+Adapter name:   Wi-Fi
+	Adapter index:  10
+	Adapter id:     {7E1BB8D9-DA25-4400-8DB1-21FAD83FA454}
+	Adapter Desc:   Intel(R) Wireless-AC 9560 160MHz
+	Adapter medium: Native802_11
+	Adapter Flags:  485
+	Adapter MTU:    1500
+	Adapter type:   Unknown
+	Adapter IfType: IF_TYPE_IEEE80211
+	Adapter Status: IfOperStatusUp
+	Adapter Addr:   d4-3b-4-1a-c2-f 
+	Adapter DNS:    192.168.1.1 	
+	IP Address:    192.168.1.6	mask: 255.255.255.0
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+	Gateway:        0.0.0.0
+	DHCP Enabled:   Yes
+	DHCP Server:    
+	Lease Obtained:  0
+
+Adapter name:   Wi-Fi
+	Adapter index:  10
+	Adapter id:     {7E1BB8D9-DA25-4400-8DB1-21FAD83FA454}
+	Adapter Desc:   Intel(R) Wireless-AC 9560 160MHz
+	Adapter medium: Native802_11
+	Adapter Flags:  485
+	Adapter MTU:    1500
+	Adapter type:   Unknown
+	Adapter IfType: IF_TYPE_IEEE80211
+	Adapter Status: IfOperStatusUp
+	Adapter Addr:   d4-3b-4-1a-c2-f 
+	Adapter DNS:    192.168.1.1 	
+	IP Address:    192.168.1.6	mask: 255.255.255.0
+	Gateway:        192.168.1.1
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+	Gateway:        0.0.0.0
+	DHCP Enabled:   Yes
+	DHCP Server:    
+	Lease Obtained:  0
+
+Adapter name:   Wi-Fi
+	Adapter index:  10
+	Adapter id:     {7E1BB8D9-DA25-4400-8DB1-21FAD83FA454}
+	Adapter Desc:   Intel(R) Wireless-AC 9560 160MHz
+	Adapter medium: Native802_11
+	Adapter Flags:  485
+	Adapter MTU:    1500
+	Adapter type:   Unknown
+	Adapter IfType: IF_TYPE_IEEE80211
+	Adapter Status: IfOperStatusUp
+	Adapter Addr:   d4-3b-4-1a-c2-f 
+	Adapter DNS:    192.168.1.1 	
+	IP Address:    192.168.1.6	mask: 255.255.255.0
+	Gateway:        192.168.1.1
+	DHCP Enabled:   Yes
+	DHCP Server:    192.168.1.1
+	Lease Obtained: 192.168.1.1 1641989155
+
+Adapter name:   Ethernet
+	Adapter index:  3
+	Adapter id:     {18F4EC0F-E47A-4E8C-8F84-BB6A4F99B668}
+	Adapter Desc:   Intel(R) Ethernet Connection (7) I219-V
+	Adapter medium: Unspecified
+	Adapter Flags:  453
+	Adapter MTU:    1500
+	Adapter type:   MIB_IF_TYPE_ETHERNET
+	Adapter IfType: IF_TYPE_ETHERNET_CSMACD
+	Adapter Status: IfOperStatusDown
+	Adapter Addr:   e0-d5-5e-e7-f5-59 
+	Adapter DNS:    
+	IP Address:    0.0.0.0	mask: 0.0.0.0
+	Gateway:        0.0.0.0
+	DHCP Enabled:   Yes
+	DHCP Server:    
+	Lease Obtained:  0
+
+Adapter name:   Wi-Fi
+	Adapter index:  10
+	Adapter id:     {7E1BB8D9-DA25-4400-8DB1-21FAD83FA454}
+	Adapter Desc:   Intel(R) Wireless-AC 9560 160MHz
+	Adapter medium: Native802_11
+	Adapter Flags:  485
+	Adapter MTU:    1500
+	Adapter type:   Unknown
+	Adapter IfType: IF_TYPE_IEEE80211
+	Adapter Status: IfOperStatusUp
+	Adapter Addr:   d4-3b-4-1a-c2-f 
+	Adapter DNS:    192.168.1.1 	
+	IP Address:    192.168.1.6	mask: 255.255.255
